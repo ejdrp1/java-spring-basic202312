@@ -23,5 +23,6 @@ public class RectAngle {
     public int calculateArea() {
         return width * height;
     }
+
 }
 
