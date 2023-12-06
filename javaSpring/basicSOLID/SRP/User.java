@@ -1,3 +1,5 @@
+package SRP;
+
 public class User {
 
     private String userName;
