@@ -1,4 +1,4 @@
-package OCP;
+package ocp;
 
 public class AreaCalculator {
     public double calculateArea(Shape[] shapes) {

@@ -1,4 +1,4 @@
-package LSP;
+package lsp;
 
 public class RectAngle {
     protected int width;

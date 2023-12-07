@@ -1,4 +1,4 @@
-package SRP;
+package srp;
 
 public class UserValidator {
     public boolean isValid(User user) {

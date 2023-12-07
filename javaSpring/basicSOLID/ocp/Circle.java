@@ -1,4 +1,4 @@
-package OCP;
+package ocp;
 
 public class Circle implements Shape{
     private double radius;
