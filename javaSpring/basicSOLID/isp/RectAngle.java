@@ -1,6 +1,6 @@
 package isp;
 
-public class RectAngle implements Shape{
+public class RectAngle implements Area{
     private double width;
     private double height;
 
@@ -8,7 +8,4 @@ public class RectAngle implements Shape{
         return width * height;
     }
 
-    public double calculateVolume() {
-        throw new UnsupportedOperationException();
-    }
 }

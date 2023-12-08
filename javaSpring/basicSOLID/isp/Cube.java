@@ -1,6 +1,6 @@
 package isp;
 
-public class Cube implements Shape {
+public class Cube implements Area, Volume {
     private double width;
     private double height;
     private double depth;
