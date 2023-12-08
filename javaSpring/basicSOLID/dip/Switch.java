@@ -1,10 +1,10 @@
 package dip;
 
 public class Switch {
-    private RedLight light;
+    private Light light;
 
-    public Switch() {
-        this.light = new RedLight();
+    public Switch(Light light) {
+        this.light = light;
     }
 
     public void filp() {
